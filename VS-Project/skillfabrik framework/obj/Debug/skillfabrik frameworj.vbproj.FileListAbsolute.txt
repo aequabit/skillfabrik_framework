@@ -1,0 +1,10 @@
+H:\_Coding\_plag1at\skillfabrik framework\skillfabrik frameworj\skillfabrik frameworj\obj\Debug\skillfabrik frameworj.vbproj.GenerateResource.Cache
+H:\_Coding\_plag1at\skillfabrik framework\skillfabrik frameworj\skillfabrik frameworj\bin\Debug\skillfabrik framework.exe
+H:\_Coding\_plag1at\skillfabrik framework\skillfabrik frameworj\skillfabrik frameworj\bin\Debug\skillfabrik framework.pdb
+H:\_Coding\_plag1at\skillfabrik framework\skillfabrik frameworj\skillfabrik frameworj\bin\Debug\skillfabrik framework.xml
+H:\_Coding\_plag1at\skillfabrik framework\skillfabrik frameworj\skillfabrik frameworj\obj\Debug\skillfabrik_framework.Login.resources
+H:\_Coding\_plag1at\skillfabrik framework\skillfabrik frameworj\skillfabrik frameworj\obj\Debug\skillfabrik_framework.Main.resources
+H:\_Coding\_plag1at\skillfabrik framework\skillfabrik frameworj\skillfabrik frameworj\obj\Debug\skillfabrik_framework.Resources.resources
+H:\_Coding\_plag1at\skillfabrik framework\skillfabrik frameworj\skillfabrik frameworj\obj\Debug\skillfabrik framework.exe
+H:\_Coding\_plag1at\skillfabrik framework\skillfabrik frameworj\skillfabrik frameworj\obj\Debug\skillfabrik framework.xml
+H:\_Coding\_plag1at\skillfabrik framework\skillfabrik frameworj\skillfabrik frameworj\obj\Debug\skillfabrik framework.pdb
