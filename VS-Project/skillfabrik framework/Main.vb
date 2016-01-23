@@ -1,6 +1,8 @@
 ﻿Public Class Main
     Dim selectedApp As String
     Private Sub CloseButton_Click(sender As Object, e As EventArgs) Handles CloseButton.Click
+        'if u remove dis, u ar a bad 1337hackz0r.
+        MessageBox.Show("skillfabrik framework by ko1N" + Environment.NewLine + "remake by aequabit", "skillfabrik framework - credits", MessageBoxButtons.OK)
         Me.Close()
     End Sub
 
